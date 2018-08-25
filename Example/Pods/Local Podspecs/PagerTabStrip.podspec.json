@@ -1,0 +1,22 @@
+{
+  "name": "PagerTabStrip",
+  "version": "0.1.0",
+  "summary": "A short description of PagerTabStrip.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dgyesbreghs/PagerTabStrip",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dgyesbreghs": "dgyesbreghs@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/dgyesbreghs/PagerTabStrip.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PagerTabStrip/Classes/**/*"
+}

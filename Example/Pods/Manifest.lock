@@ -1,0 +1,16 @@
+PODS:
+  - PagerTabStrip (0.1.0)
+
+DEPENDENCIES:
+  - PagerTabStrip (from `../`)
+
+EXTERNAL SOURCES:
+  PagerTabStrip:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PagerTabStrip: e4962292a59de721829a4853b18eb945b3147a2e
+
+PODFILE CHECKSUM: ed4cebc98ab88f3bd6acbd998f8d51f12bcc257e
+
+COCOAPODS: 1.6.0.beta.1

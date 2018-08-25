@@ -1,0 +1,6 @@
+framework module Pods_PagerTabStrip_Tests {
+  umbrella header "Pods-PagerTabStrip_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
