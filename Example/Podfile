@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PagerTabStrip_Example' do
+  pod 'PagerTabStrip', :path => '../'
+
+  target 'PagerTabStrip_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

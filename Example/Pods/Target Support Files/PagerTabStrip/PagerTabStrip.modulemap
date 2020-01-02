@@ -1,0 +1,6 @@
+framework module PagerTabStrip {
+  umbrella header "PagerTabStrip-umbrella.h"
+
+  export *
+  module * { export * }
+}
